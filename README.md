@@ -94,7 +94,7 @@ Open index.html in your browser.
 
 🌐 Live Website
 
-https://YOUR-USERNAME.github.io/Vibely-Music-Website/
+https://marymmunshara.github.io/Vibely-Music-Website/
 
 🎯 Internship Project
 
